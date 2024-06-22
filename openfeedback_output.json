@@ -1,0 +1,1844 @@
+{
+    "sessions": {
+        "666820": {
+            "speakers": [
+                "benoît_masson,_sébastien_chédor"
+            ],
+            "tags": [
+                "Université"
+            ],
+            "title": "▣ QR Codes : suivez les points sans vous perdre ! ▣",
+            "id": "666820",
+            "startTime": "2024-06-26T10:00:00",
+            "endTime": "2024-06-26T12:00:00",
+            "trackTitle": "Amphi A"
+        },
+        "670503": {
+            "speakers": [
+                "jérôme_marchand,_adrien_wattez"
+            ],
+            "tags": [
+                "Université"
+            ],
+            "title": "Parcours initiatique sur l'authentification avec Keycloak",
+            "id": "670503",
+            "startTime": "2024-06-26T13:30:00",
+            "endTime": "2024-06-26T15:30:00",
+            "trackTitle": "Amphi A"
+        },
+        "666173": {
+            "speakers": [
+                "jérôme_marchand"
+            ],
+            "tags": [
+                "Université"
+            ],
+            "title": "Migration de projets Terraform vers Terragrunt.",
+            "id": "666173",
+            "startTime": "2024-06-26T16:00:00",
+            "endTime": "2024-06-26T18:00:00",
+            "trackTitle": "Amphi A"
+        },
+        "659464": {
+            "speakers": [
+                "florian_allainmat,_imryck_n/a"
+            ],
+            "tags": [
+                "Université"
+            ],
+            "title": "Angular change de logo mais pas que.",
+            "id": "659464",
+            "startTime": "2024-06-26T10:00:00",
+            "endTime": "2024-06-26T12:00:00",
+            "trackTitle": "Amphi B"
+        },
+        "664305": {
+            "speakers": [
+                "mathieu_ancelin,_sébastien_prunier"
+            ],
+            "tags": [
+                "Université"
+            ],
+            "title": "Let's React : 8 ans plus tard !",
+            "id": "664305",
+            "startTime": "2024-06-26T13:30:00",
+            "endTime": "2024-06-26T15:30:00",
+            "trackTitle": "Amphi B"
+        },
+        "661590": {
+            "speakers": [
+                "alan_duchene"
+            ],
+            "tags": [
+                "Université"
+            ],
+            "title": "Automatiser les Tests d'API avec Bruno",
+            "id": "661590",
+            "startTime": "2024-06-26T16:00:00",
+            "endTime": "2024-06-26T18:00:00",
+            "trackTitle": "Amphi B"
+        },
+        "653362": {
+            "speakers": [
+                "lucas_audart,_mickael_alves"
+            ],
+            "tags": [
+                "Université"
+            ],
+            "title": "Voyage au coeur d'Appwrite : le backend open-source qui challenge Firebase 🧳",
+            "id": "653362",
+            "startTime": "2024-06-26T10:00:00",
+            "endTime": "2024-06-26T12:00:00",
+            "trackTitle": "Amphi C"
+        },
+        "656861": {
+            "speakers": [
+                "sandra_pietrowska,_franck_cussac"
+            ],
+            "tags": [
+                "Université"
+            ],
+            "title": "Fresque de la Data",
+            "id": "656861",
+            "startTime": "2024-06-26T13:30:00",
+            "endTime": "2024-06-26T15:30:00",
+            "trackTitle": "Amphi C"
+        },
+        "657943": {
+            "speakers": [
+                "françois-xavier_lair,_henri_gauffriau"
+            ],
+            "tags": [
+                "Université"
+            ],
+            "title": "Atelier : 10 tests simples pour améliorer l'accessibilité de votre site",
+            "id": "657943",
+            "startTime": "2024-06-26T16:00:00",
+            "endTime": "2024-06-26T18:00:00",
+            "trackTitle": "Amphi C"
+        },
+        "668968": {
+            "speakers": [
+                "mathieu_pousse"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Génération XZ",
+            "id": "668968",
+            "startTime": "2024-06-26T10:00:00",
+            "endTime": "2024-06-26T11:00:00",
+            "trackTitle": "Amphi D"
+        },
+        "670842": {
+            "speakers": [
+                "johanna_duigou"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Les apps écologiques, c'est pas automatique ?",
+            "id": "670842",
+            "startTime": "2024-06-26T11:00:00",
+            "endTime": "2024-06-26T12:00:00",
+            "trackTitle": "Amphi D"
+        },
+        "666515": {
+            "speakers": [
+                "antoine_g"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Les normes de messagerie pour une meilleure expérience e-mail",
+            "id": "666515",
+            "startTime": "2024-06-26T13:30:00",
+            "endTime": "2024-06-26T14:30:00",
+            "trackTitle": "Amphi D"
+        },
+        "656166": {
+            "speakers": [
+                "charline_humeau,_nicolas_giraud"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Cinq critères pour muscler vos échanges HTTP",
+            "id": "656166",
+            "startTime": "2024-06-26T14:30:00",
+            "endTime": "2024-06-26T15:30:00",
+            "trackTitle": "Amphi D"
+        },
+        "658467": {
+            "speakers": [
+                "édouard_siha"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Du code source à l'exécutable : plongée dans les entrailles de la compilation en Rust",
+            "id": "658467",
+            "startTime": "2024-06-26T16:00:00",
+            "endTime": "2024-06-26T17:00:00",
+            "trackTitle": "Amphi D"
+        },
+        "669619": {
+            "speakers": [
+                "sébastien_coulle"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Flink vs Kafka Streams : le duel des titans du streaming",
+            "id": "669619",
+            "startTime": "2024-06-26T17:00:00",
+            "endTime": "2024-06-26T18:00:00",
+            "trackTitle": "Amphi D"
+        },
+        "658620": {
+            "speakers": [
+                "magali_milbergue"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Burn Your Idols - Comment devenir un bon rôle modèle ?",
+            "id": "658620",
+            "startTime": "2024-06-26T10:00:00",
+            "endTime": "2024-06-26T11:00:00",
+            "trackTitle": "Amphi E"
+        },
+        "658066": {
+            "speakers": [
+                "alexandre_jeambrun"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Défier l'entropie : réécrire ses applications ou reprendre le contrôle ?",
+            "id": "658066",
+            "startTime": "2024-06-26T11:00:00",
+            "endTime": "2024-06-26T12:00:00",
+            "trackTitle": "Amphi E"
+        },
+        "659657": {
+            "speakers": [
+                "harold_favereau"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "HTMX - Un retour aux templates ou le futur du front-end ?",
+            "id": "659657",
+            "startTime": "2024-06-26T13:30:00",
+            "endTime": "2024-06-26T14:30:00",
+            "trackTitle": "Amphi E"
+        },
+        "663614": {
+            "speakers": [
+                "sylvain_decout"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Un code à l'épreuve du temps avec le Supple Design",
+            "id": "663614",
+            "startTime": "2024-06-26T14:30:00",
+            "endTime": "2024-06-26T15:30:00",
+            "trackTitle": "Amphi E"
+        },
+        "670915": {
+            "speakers": [
+                "talab_ou_ali_halima"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Et si on ouvre grand les bras aux SIG ?",
+            "id": "670915",
+            "startTime": "2024-06-26T16:00:00",
+            "endTime": "2024-06-26T17:00:00",
+            "trackTitle": "Amphi E"
+        },
+        "666590": {
+            "speakers": [
+                "daria_hervieux"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "RetEx : Optimisation du temps de démarrage d'une application Java Spring.",
+            "id": "666590",
+            "startTime": "2024-06-26T17:00:00",
+            "endTime": "2024-06-26T18:00:00",
+            "trackTitle": "Amphi E"
+        },
+        "670894": {
+            "speakers": [
+                "luc_sorel-giffo"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Testcontainers : tu ne douteras plus de tes fonctionnalités, jeune Pydawan·e",
+            "id": "670894",
+            "startTime": "2024-06-27T10:30:00",
+            "endTime": "2024-06-27T11:30:00",
+            "trackTitle": "Amphi A"
+        },
+        "653014": {
+            "speakers": [
+                "damien_lucas,_ivan_béthus"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Il faut sauver le dernier giga de RAM",
+            "id": "653014",
+            "startTime": "2024-06-27T11:30:00",
+            "endTime": "2024-06-27T12:30:00",
+            "trackTitle": "Amphi A"
+        },
+        "669467": {
+            "speakers": [
+                "alexis_\"horgix\"_chotard,_caroline_becker"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "MongoDB en scale-up : comment sortir d’un enfer monolithique",
+            "id": "669467",
+            "startTime": "2024-06-27T13:30:00",
+            "endTime": "2024-06-27T14:30:00",
+            "trackTitle": "Amphi A"
+        },
+        "663731": {
+            "speakers": [
+                "maxime_odye"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "🆘 Mon Elasticsearch a perdu la boule 😵‍💫",
+            "id": "663731",
+            "startTime": "2024-06-27T16:00:00",
+            "endTime": "2024-06-27T17:00:00",
+            "trackTitle": "Amphi A"
+        },
+        "660722": {
+            "speakers": [
+                "vincent_ogloblinsky"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "La force du temp réel : développement d'un jeu mobile de palet breton/vendéen multijoueur",
+            "id": "660722",
+            "startTime": "2024-06-27T14:30:00",
+            "endTime": "2024-06-27T15:30:00",
+            "trackTitle": "Amphi A"
+        },
+        "658496": {
+            "speakers": [
+                "édouard_siha"
+            ],
+            "tags": [
+                "Tool in action"
+            ],
+            "title": "Des batches à moindre coût environnemental !",
+            "id": "658496",
+            "startTime": "2024-06-27T17:00:00",
+            "endTime": "2024-06-27T17:30:00",
+            "trackTitle": "Amphi A"
+        },
+        "654315": {
+            "speakers": [
+                "alexis_morelle"
+            ],
+            "tags": [
+                "Tool in action"
+            ],
+            "title": "Déverrouiller sa porte en une commande slack 🤖 #iot #diy #cloud",
+            "id": "654315",
+            "startTime": "2024-06-27T17:30:00",
+            "endTime": "2024-06-27T18:00:00",
+            "trackTitle": "Amphi A"
+        },
+        "663080": {
+            "speakers": [
+                "marcy_ericka_charollois"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "D’observateur à responsable : enrayer l’impact des biais racistes dans l'expérience utilisateur.",
+            "id": "663080",
+            "startTime": "2024-06-27T10:30:00",
+            "endTime": "2024-06-27T11:30:00",
+            "trackTitle": "Amphi B"
+        },
+        "665171": {
+            "speakers": [
+                "maxime_reynier"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Une seconde pour traiter un milliard de lignes en java ?",
+            "id": "665171",
+            "startTime": "2024-06-27T11:30:00",
+            "endTime": "2024-06-27T12:30:00",
+            "trackTitle": "Amphi B"
+        },
+        "656552": {
+            "speakers": [
+                "jean-françois_greffier"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Tests JavaScript : reconstituer le puzzle",
+            "id": "656552",
+            "startTime": "2024-06-27T13:30:00",
+            "endTime": "2024-06-27T14:30:00",
+            "trackTitle": "Amphi B"
+        },
+        "652330": {
+            "speakers": [
+                "david_pilato"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "La recherche à l'ère de l'IA",
+            "id": "652330",
+            "startTime": "2024-06-27T14:30:00",
+            "endTime": "2024-06-27T15:30:00",
+            "trackTitle": "Amphi B"
+        },
+        "654458": {
+            "speakers": [
+                "dorian_lamandé"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "La Clean Archi ca marche aussi dans le Front !",
+            "id": "654458",
+            "startTime": "2024-06-27T16:00:00",
+            "endTime": "2024-06-27T17:00:00",
+            "trackTitle": "Amphi B"
+        },
+        "671111": {
+            "speakers": [
+                "martin_bahier"
+            ],
+            "tags": [
+                "Tool in action"
+            ],
+            "title": "Présentez avec style grâce à OBS !",
+            "id": "671111",
+            "startTime": "2024-06-27T17:00:00",
+            "endTime": "2024-06-27T17:30:00",
+            "trackTitle": "Amphi B"
+        },
+        "671087": {
+            "speakers": [
+                "morgan_blanloeil"
+            ],
+            "tags": [
+                "Tool in action"
+            ],
+            "title": "OpenFeature : Vers La normalisation du feature flags",
+            "id": "671087",
+            "startTime": "2024-06-27T17:30:00",
+            "endTime": "2024-06-27T18:00:00",
+            "trackTitle": "Amphi B"
+        },
+        "653610": {
+            "speakers": [
+                "julien_topçu,_josian_chevalier"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Model Mitosis : ne plus se tromper entre les microservices et le monolithe",
+            "id": "653610",
+            "startTime": "2024-06-27T10:30:00",
+            "endTime": "2024-06-27T11:30:00",
+            "trackTitle": "Amphi C"
+        },
+        "653779": {
+            "speakers": [
+                "cédric_champeau"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "JSol'Ex : traitement d'images solaires en Java",
+            "id": "653779",
+            "startTime": "2024-06-27T11:30:00",
+            "endTime": "2024-06-27T12:30:00",
+            "trackTitle": "Amphi C"
+        },
+        "663769": {
+            "speakers": [
+                "benjamin_cavy"
+            ],
+            "tags": [
+                "Quickie"
+            ],
+            "title": "Playwright : tester vos applications devient un jeu d'enfant",
+            "id": "663769",
+            "startTime": "2024-06-27T12:45:00",
+            "endTime": "2024-06-27T13:00:00",
+            "trackTitle": "Amphi C"
+        },
+        "670888": {
+            "speakers": [
+                "nailya_bogrova"
+            ],
+            "tags": [
+                "Quickie"
+            ],
+            "title": "Quelle est la structure d’un virus informatique et quels sont les outils de détection de virus",
+            "id": "670888",
+            "startTime": "2024-06-27T13:00:00",
+            "endTime": "2024-06-27T13:15:00",
+            "trackTitle": "Amphi C"
+        },
+        "666457": {
+            "speakers": [
+                "adrien_wattez,_mickaël_barroux"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Redis, le plus sous-estimé des plus utilisés !",
+            "id": "666457",
+            "startTime": "2024-06-27T13:30:00",
+            "endTime": "2024-06-27T14:30:00",
+            "trackTitle": "Amphi C"
+        },
+        "670736": {
+            "speakers": [
+                "malo_toanen,_luc_sorel-giffo"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "La bienveillance, (je trouve que) c'est de la 💩",
+            "id": "670736",
+            "startTime": "2024-06-27T14:30:00",
+            "endTime": "2024-06-27T15:30:00",
+            "trackTitle": "Amphi C"
+        },
+        "659416": {
+            "speakers": [
+                "benjamin_cavy"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Les feature flags : le couteau suisse de votre flow de développement",
+            "id": "659416",
+            "startTime": "2024-06-27T16:00:00",
+            "endTime": "2024-06-27T17:00:00",
+            "trackTitle": "Amphi C"
+        },
+        "657061": {
+            "speakers": [
+                "jérôme_gauthier"
+            ],
+            "tags": [
+                "Tool in action"
+            ],
+            "title": "C4 model, la solution pour standardiser mes schémas d'architecture ?",
+            "id": "657061",
+            "startTime": "2024-06-27T17:00:00",
+            "endTime": "2024-06-27T17:30:00",
+            "trackTitle": "Amphi C"
+        },
+        "670850": {
+            "speakers": [
+                "victor_landeau"
+            ],
+            "tags": [
+                "Tool in action"
+            ],
+            "title": "SQL Test Kit, ou comment tester unitairement vos requêtes SQL",
+            "id": "670850",
+            "startTime": "2024-06-27T17:30:00",
+            "endTime": "2024-06-27T18:00:00",
+            "trackTitle": "Amphi C"
+        },
+        "662469": {
+            "speakers": [
+                "cécilia_bossard"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Manifeste pour un artisanat logiciel responsable",
+            "id": "662469",
+            "startTime": "2024-06-27T10:30:00",
+            "endTime": "2024-06-27T11:30:00",
+            "trackTitle": "Amphi D"
+        },
+        "660870": {
+            "speakers": [
+                "jean-luc_tromparent"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Le langage Mojo 🔥: Un nouvel espoir pour l'IA ?",
+            "id": "660870",
+            "startTime": "2024-06-27T11:30:00",
+            "endTime": "2024-06-27T12:30:00",
+            "trackTitle": "Amphi D"
+        },
+        "652393": {
+            "speakers": [
+                "sylvain_métayer"
+            ],
+            "tags": [
+                "Quickie"
+            ],
+            "title": "SOPS, Passez un savon à vos secrets en clair !",
+            "id": "652393",
+            "startTime": "2024-06-27T12:45:00",
+            "endTime": "2024-06-27T13:00:00",
+            "trackTitle": "Amphi D"
+        },
+        "666835": {
+            "speakers": [
+                "emmanuelle_rouillé"
+            ],
+            "tags": [
+                "Quickie"
+            ],
+            "title": "Introduction aux Threads Virtuels en SpringBoot 3 à travers une démonstration",
+            "id": "666835",
+            "startTime": "2024-06-27T13:00:00",
+            "endTime": "2024-06-27T13:15:00",
+            "trackTitle": "Amphi D"
+        },
+        "669386": {
+            "speakers": [
+                "victor_klötzer,_cédric_jézéquel"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Discuter avec ses articles de journaux : le RAG, kesako ?",
+            "id": "669386",
+            "startTime": "2024-06-27T13:30:00",
+            "endTime": "2024-06-27T14:30:00",
+            "trackTitle": "Amphi D"
+        },
+        "671001": {
+            "speakers": [
+                "alexis_delhelle"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "De HTTP 1 à 3, pourquoi et comment ?",
+            "id": "671001",
+            "startTime": "2024-06-27T14:30:00",
+            "endTime": "2024-06-27T15:30:00",
+            "trackTitle": "Amphi D"
+        },
+        "666799": {
+            "speakers": [
+                "gregory_houllier"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "L'architecture Micro-frontends, un nouvel espoir ?",
+            "id": "666799",
+            "startTime": "2024-06-27T16:00:00",
+            "endTime": "2024-06-27T17:00:00",
+            "trackTitle": "Amphi D"
+        },
+        "652394": {
+            "speakers": [
+                "sylvain_métayer"
+            ],
+            "tags": [
+                "Tool in action"
+            ],
+            "title": "asdf, un outil pour toutes vos versions",
+            "id": "652394",
+            "startTime": "2024-06-27T17:00:00",
+            "endTime": "2024-06-27T17:30:00",
+            "trackTitle": "Amphi D"
+        },
+        "666318": {
+            "speakers": [
+                "benoît_masson"
+            ],
+            "tags": [
+                "Tool in action"
+            ],
+            "title": "/e/OS, mon smartphone Android sans Google",
+            "id": "666318",
+            "startTime": "2024-06-27T17:30:00",
+            "endTime": "2024-06-27T18:00:00",
+            "trackTitle": "Amphi D"
+        },
+        "671149": {
+            "speakers": [
+                "sébastien_brousse"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Keycloak & Authorization : A New Hope",
+            "id": "671149",
+            "startTime": "2024-06-27T10:30:00",
+            "endTime": "2024-06-27T11:30:00",
+            "trackTitle": "Amphi E"
+        },
+        "668071": {
+            "speakers": [
+                "florian_girard,_florent_le_borgne"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Bug Bounty : Révolutionner la détection des vulnérabilités dans votre SI et passer à l'échelle",
+            "id": "668071",
+            "startTime": "2024-06-27T11:30:00",
+            "endTime": "2024-06-27T12:30:00",
+            "trackTitle": "Amphi E"
+        },
+        "669841": {
+            "speakers": [
+                "antoine_cailly"
+            ],
+            "tags": [
+                "Quickie"
+            ],
+            "title": "La Diva 👑, la Rockstar 🎸 et le consultant 💁",
+            "id": "669841",
+            "startTime": "2024-06-27T12:45:00",
+            "endTime": "2024-06-27T13:00:00",
+            "trackTitle": "Amphi E"
+        },
+        "671126": {
+            "speakers": [
+                "maxime_dupont"
+            ],
+            "tags": [
+                "Quickie"
+            ],
+            "title": "Comment faire une bonne campagne de Green Washing Solutioniste ?",
+            "id": "671126",
+            "startTime": "2024-06-27T13:00:00",
+            "endTime": "2024-06-27T13:15:00",
+            "trackTitle": "Amphi E"
+        },
+        "662102": {
+            "speakers": [
+                "julien_topçu"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Loi de Conway : Lorsque votre conception produit se fâche avec votre organisation",
+            "id": "662102",
+            "startTime": "2024-06-27T13:30:00",
+            "endTime": "2024-06-27T14:30:00",
+            "trackTitle": "Amphi E"
+        },
+        "665161": {
+            "speakers": [
+                "youen_garel,_can_yalin"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "5 ans avec Flutter",
+            "id": "665161",
+            "startTime": "2024-06-27T14:30:00",
+            "endTime": "2024-06-27T15:30:00",
+            "trackTitle": "Amphi E"
+        },
+        "654007": {
+            "speakers": [
+                "hugues_lepesant"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Est-il (encore) possible d'héberger son propre serveur de messagerie ?",
+            "id": "654007",
+            "startTime": "2024-06-27T16:00:00",
+            "endTime": "2024-06-27T17:00:00",
+            "trackTitle": "Amphi E"
+        },
+        "670834": {
+            "speakers": [
+                "antoine_mayer"
+            ],
+            "tags": [
+                "Tool in action"
+            ],
+            "title": "Exegol : Le Hacking à base de conteneurs",
+            "id": "670834",
+            "startTime": "2024-06-27T17:00:00",
+            "endTime": "2024-06-27T17:30:00",
+            "trackTitle": "Amphi E"
+        },
+        "662583": {
+            "speakers": [
+                "nicolas_de_loof"
+            ],
+            "tags": [
+                "Tool in action"
+            ],
+            "title": "Compose to Kube, Episode IV: Un nouvel espoir",
+            "id": "662583",
+            "startTime": "2024-06-27T17:30:00",
+            "endTime": "2024-06-27T18:00:00",
+            "trackTitle": "Amphi E"
+        },
+        "656887": {
+            "speakers": [
+                "audren_burlot"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Racine carrée, bit-shifting et paracétamol",
+            "id": "656887",
+            "startTime": "2024-06-28T10:30:00",
+            "endTime": "2024-06-28T11:30:00",
+            "trackTitle": "Amphi A"
+        },
+        "664942": {
+            "speakers": [
+                "guillaume_collic"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "BackToBasics: texte et numÃ©rique",
+            "id": "664942",
+            "startTime": "2024-06-28T11:30:00",
+            "endTime": "2024-06-28T12:30:00",
+            "trackTitle": "Amphi A"
+        },
+        "666197": {
+            "speakers": [
+                "emmanuel-lin_toulemonde"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Optimisation de performance bénéfice ou sacrifice ?",
+            "id": "666197",
+            "startTime": "2024-06-28T13:30:00",
+            "endTime": "2024-06-28T14:30:00",
+            "trackTitle": "Amphi A"
+        },
+        "668905": {
+            "speakers": [
+                "alexandre_brianceau"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "L’open-source n’est pas (déjà) mort",
+            "id": "668905",
+            "startTime": "2024-06-28T14:30:00",
+            "endTime": "2024-06-28T15:30:00",
+            "trackTitle": "Amphi A"
+        },
+        "663259": {
+            "speakers": [
+                "jb_onofré"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Apache Software Foundation, comment ça marche ?",
+            "id": "663259",
+            "startTime": "2024-06-28T16:00:00",
+            "endTime": "2024-06-28T17:00:00",
+            "trackTitle": "Amphi A"
+        },
+        "658493": {
+            "speakers": [
+                "mathieu_ancelin"
+            ],
+            "tags": [
+                "Tool in action"
+            ],
+            "title": "De l'IA dans mon API Gateway ??? Mais pour quoi faire ?",
+            "id": "658493",
+            "startTime": "2024-06-28T17:00:00",
+            "endTime": "2024-06-28T17:30:00",
+            "trackTitle": "Amphi A"
+        },
+        "669460": {
+            "speakers": [
+                "alexis_\"horgix\"_chotard"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Alerte, tout brûle ! Comment gérer des incidents techniques",
+            "id": "669460",
+            "startTime": "2024-06-28T10:30:00",
+            "endTime": "2024-06-28T11:30:00",
+            "trackTitle": "Amphi B"
+        },
+        "654521": {
+            "speakers": [
+                "laurent_grangeau"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Cracking the Quantum Code: Découvrons la révolution quantique !",
+            "id": "654521",
+            "startTime": "2024-06-28T11:30:00",
+            "endTime": "2024-06-28T12:30:00",
+            "trackTitle": "Amphi B"
+        },
+        "662959": {
+            "speakers": [
+                "angi_guyard"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Comment intégrer au mieux une personne autiste en entreprise",
+            "id": "662959",
+            "startTime": "2024-06-28T11:35:00",
+            "endTime": "2024-06-28T12:30:00",
+            "trackTitle": "Amphi E"
+        },
+        "666547": {
+            "speakers": [
+                "anthony_le_goas"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Stockage web : le guide galactique",
+            "id": "666547",
+            "startTime": "2024-06-28T14:30:00",
+            "endTime": "2024-06-28T15:30:00",
+            "trackTitle": "Amphi B"
+        },
+        "662478": {
+            "speakers": [
+                "guillaume_yan"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Unleashing the Force of Spring Boot 3",
+            "id": "662478",
+            "startTime": "2024-06-28T16:00:00",
+            "endTime": "2024-06-28T17:00:00",
+            "trackTitle": "Amphi B"
+        },
+        "669651": {
+            "speakers": [
+                "pascal_le_merrer"
+            ],
+            "tags": [
+                "Tool in action"
+            ],
+            "title": "Gleam, un langage né sous une bonne étoile",
+            "id": "669651",
+            "startTime": "2024-06-28T17:00:00",
+            "endTime": "2024-06-28T17:30:00",
+            "trackTitle": "Amphi B"
+        },
+        "664979": {
+            "speakers": [
+                "paul_chaignon"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Linguist : Détecter les langages de 400+ millions de dépôts Git",
+            "id": "664979",
+            "startTime": "2024-06-28T10:30:00",
+            "endTime": "2024-06-28T11:30:00",
+            "trackTitle": "Amphi C"
+        },
+        "666967": {
+            "speakers": [
+                "ludovic_boutros,_adam_souquieres"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Comment s’assurer de perdre des données avec Apache Kafka !",
+            "id": "666967",
+            "startTime": "2024-06-28T11:30:00",
+            "endTime": "2024-06-28T12:30:00",
+            "trackTitle": "Amphi C"
+        },
+        "668255": {
+            "speakers": [
+                "hadrien_mens-pellen"
+            ],
+            "tags": [
+                "Quickie"
+            ],
+            "title": "Le côté obscur des pull requests et comment lutter",
+            "id": "668255",
+            "startTime": "2024-06-28T12:45:00",
+            "endTime": "2024-06-28T13:00:00",
+            "trackTitle": "Amphi C"
+        },
+        "663247": {
+            "speakers": [
+                "charline_humeau,_céline_merand"
+            ],
+            "tags": [
+                "Quickie"
+            ],
+            "title": "Dédramatisons l'accessibilité",
+            "id": "663247",
+            "startTime": "2024-06-28T13:00:00",
+            "endTime": "2024-06-28T13:15:00",
+            "trackTitle": "Amphi C"
+        },
+        "669638": {
+            "speakers": [
+                "nicolas_payneau,_david_mazin"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Des IA industrialisées à La Poste",
+            "id": "669638",
+            "startTime": "2024-06-28T13:30:00",
+            "endTime": "2024-06-28T14:30:00",
+            "trackTitle": "Amphi C"
+        },
+        "658654": {
+            "speakers": [
+                "reynald_rivière,_charles_vivoix"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Green AI : comment éviter que la potion magique de l'IA ne se transforme en poison ?",
+            "id": "658654",
+            "startTime": "2024-06-28T14:30:00",
+            "endTime": "2024-06-28T15:30:00",
+            "trackTitle": "Amphi C"
+        },
+        "671066": {
+            "speakers": [
+                "stéphane_spassevitch"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "La quête de la réactivité : L'odyssée des Signals",
+            "id": "671066",
+            "startTime": "2024-06-28T16:00:00",
+            "endTime": "2024-06-28T17:00:00",
+            "trackTitle": "Amphi C"
+        },
+        "670097": {
+            "speakers": [
+                "david_de_carvalho"
+            ],
+            "tags": [
+                "Tool in action"
+            ],
+            "title": "Gérer une partie de votre dette technique avec Renovate",
+            "id": "670097",
+            "startTime": "2024-06-28T17:00:00",
+            "endTime": "2024-06-28T17:30:00",
+            "trackTitle": "Amphi C"
+        },
+        "664924": {
+            "speakers": [
+                "alexandre_thomazo"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "JPA ne serait-il pas finalement quantique ?",
+            "id": "664924",
+            "startTime": "2024-06-28T10:30:00",
+            "endTime": "2024-06-28T11:30:00",
+            "trackTitle": "Amphi D"
+        },
+        "662787": {
+            "speakers": [
+                "thomas_martin,_mickaël_barroux"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Cartographier l'Univers de Star Wars avec Neo4j",
+            "id": "662787",
+            "startTime": "2024-06-28T11:30:00",
+            "endTime": "2024-06-28T12:30:00",
+            "trackTitle": "Amphi D"
+        },
+        "665064": {
+            "speakers": [
+                "damien_hackett"
+            ],
+            "tags": [
+                "Quickie"
+            ],
+            "title": "Le developement embarqué, c'est pour vous aussi !!!",
+            "id": "665064",
+            "startTime": "2024-06-28T12:45:00",
+            "endTime": "2024-06-28T13:00:00",
+            "trackTitle": "Amphi D"
+        },
+        "666600": {
+            "speakers": [
+                "sébastien_chédor"
+            ],
+            "tags": [
+                "Quickie"
+            ],
+            "title": "Pourquoi devriez vous toujours utiliser une pagination par curseur ?",
+            "id": "666600",
+            "startTime": "2024-06-28T13:00:00",
+            "endTime": "2024-06-28T13:15:00",
+            "trackTitle": "Amphi D"
+        },
+        "663729": {
+            "speakers": [
+                "benoit_averty"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "APIs ❤️ HTML",
+            "id": "663729",
+            "startTime": "2024-06-28T13:30:00",
+            "endTime": "2024-06-28T14:30:00",
+            "trackTitle": "Amphi D"
+        },
+        "658043": {
+            "speakers": [
+                "olivier_bierlaire"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Rendre le cloud \"carbon-aware\"",
+            "id": "658043",
+            "startTime": "2024-06-28T14:30:00",
+            "endTime": "2024-06-28T15:30:00",
+            "trackTitle": "Amphi D"
+        },
+        "667155": {
+            "speakers": [
+                "jean-philippe_baconnais,_jules_agostini"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "🗄️Et si vous mettiez à disposition vos jobs de CI/CD sur une étagère ?",
+            "id": "667155",
+            "startTime": "2024-06-28T16:00:00",
+            "endTime": "2024-06-28T17:00:00",
+            "trackTitle": "Amphi D"
+        },
+        "664116": {
+            "speakers": [
+                "caroline_mouden"
+            ],
+            "tags": [
+                "Tool in action"
+            ],
+            "title": "Android ♥ Kotlin, une folle histoire d'amour",
+            "id": "664116",
+            "startTime": "2024-06-28T17:00:00",
+            "endTime": "2024-06-28T17:30:00",
+            "trackTitle": "Amphi D"
+        },
+        "671274": {
+            "speakers": [
+                "hugo_metivier"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Ce que j'aurais aimé savoir avant que ma JVM n'explose en prod",
+            "id": "671274",
+            "startTime": "2024-06-28T10:30:00",
+            "endTime": "2024-06-28T11:30:00",
+            "trackTitle": "Amphi E"
+        },
+        "663726": {
+            "speakers": [
+                "maxime_odye,_alexandre_baron"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Construire son framework d’entreprise au dessus de Spring boot",
+            "id": "663726",
+            "startTime": "2024-06-28T13:30:00",
+            "endTime": "2024-06-28T14:25:00",
+            "trackTitle": "Amphi B"
+        },
+        "667292": {
+            "speakers": [
+                "théo_gianella"
+            ],
+            "tags": [
+                "Quickie"
+            ],
+            "title": "Comment j'ai trouvé le sens de la vie grâce à WebAssembly",
+            "id": "667292",
+            "startTime": "2024-06-28T12:45:00",
+            "endTime": "2024-06-28T13:00:00",
+            "trackTitle": "Amphi E"
+        },
+        "664925": {
+            "speakers": [
+                "nicolas_ledez"
+            ],
+            "tags": [
+                "Quickie"
+            ],
+            "title": "Les brouteurs d'IA",
+            "id": "664925",
+            "startTime": "2024-06-28T13:00:00",
+            "endTime": "2024-06-28T13:15:00",
+            "trackTitle": "Amphi E"
+        },
+        "662651": {
+            "speakers": [
+                "david_pilato"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Elasticsearch Query Language: ES|QL",
+            "id": "662651",
+            "startTime": "2024-06-28T13:30:00",
+            "endTime": "2024-06-28T14:30:00",
+            "trackTitle": "Amphi E"
+        },
+        "671057": {
+            "speakers": [
+                "gaëtan_eleouet"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Je malmène ta prod en direct avec 15 failles de sécu",
+            "id": "671057",
+            "startTime": "2024-06-28T14:30:00",
+            "endTime": "2024-06-28T15:30:00",
+            "trackTitle": "Amphi E"
+        },
+        "671246": {
+            "speakers": [
+                "gwendal_leclerc"
+            ],
+            "tags": [
+                "Conférence"
+            ],
+            "title": "Orchestrez vos workflows métier avec Temporal.io",
+            "id": "671246",
+            "startTime": "2024-06-28T16:00:00",
+            "endTime": "2024-06-28T17:00:00",
+            "trackTitle": "Amphi E"
+        },
+        "659387": {
+            "speakers": [
+                "françois_dubrez"
+            ],
+            "tags": [
+                "Tool in action"
+            ],
+            "title": "Quel Vector d’attaque pour votre pipeline d’ingestion de logs ?",
+            "id": "659387",
+            "startTime": "2024-06-28T17:00:00",
+            "endTime": "2024-06-28T17:30:00",
+            "trackTitle": "Amphi E"
+        }
+    },
+    "speakers": {
+        "benoît_masson,_sébastien_chédor": {
+            "name": "Benoît Masson, Sébastien Chédor",
+            "photoUrl": null,
+            "socials": null,
+            "id": "benoît_masson,_sébastien_chédor"
+        },
+        "jérôme_marchand,_adrien_wattez": {
+            "name": "Jérôme Marchand, Adrien Wattez",
+            "photoUrl": null,
+            "socials": null,
+            "id": "jérôme_marchand,_adrien_wattez"
+        },
+        "jérôme_marchand": {
+            "name": "Jérôme Marchand",
+            "photoUrl": null,
+            "socials": null,
+            "id": "jérôme_marchand"
+        },
+        "florian_allainmat,_imryck_n/a": {
+            "name": "Florian Allainmat, Imryck N/A",
+            "photoUrl": null,
+            "socials": null,
+            "id": "florian_allainmat,_imryck_n/a"
+        },
+        "mathieu_ancelin,_sébastien_prunier": {
+            "name": "Mathieu Ancelin, Sébastien Prunier",
+            "photoUrl": null,
+            "socials": null,
+            "id": "mathieu_ancelin,_sébastien_prunier"
+        },
+        "alan_duchene": {
+            "name": "Alan Duchene",
+            "photoUrl": null,
+            "socials": null,
+            "id": "alan_duchene"
+        },
+        "lucas_audart,_mickael_alves": {
+            "name": "Lucas Audart, Mickael Alves",
+            "photoUrl": null,
+            "socials": null,
+            "id": "lucas_audart,_mickael_alves"
+        },
+        "sandra_pietrowska,_franck_cussac": {
+            "name": "Sandra Pietrowska, Franck Cussac",
+            "photoUrl": null,
+            "socials": null,
+            "id": "sandra_pietrowska,_franck_cussac"
+        },
+        "françois-xavier_lair,_henri_gauffriau": {
+            "name": "François-Xavier Lair, Henri Gauffriau",
+            "photoUrl": null,
+            "socials": null,
+            "id": "françois-xavier_lair,_henri_gauffriau"
+        },
+        "mathieu_pousse": {
+            "name": "Mathieu Pousse",
+            "photoUrl": null,
+            "socials": null,
+            "id": "mathieu_pousse"
+        },
+        "johanna_duigou": {
+            "name": "Johanna Duigou",
+            "photoUrl": null,
+            "socials": null,
+            "id": "johanna_duigou"
+        },
+        "antoine_g": {
+            "name": "Antoine G",
+            "photoUrl": null,
+            "socials": null,
+            "id": "antoine_g"
+        },
+        "charline_humeau,_nicolas_giraud": {
+            "name": "Charline Humeau, Nicolas Giraud",
+            "photoUrl": null,
+            "socials": null,
+            "id": "charline_humeau,_nicolas_giraud"
+        },
+        "édouard_siha": {
+            "name": "Édouard Siha",
+            "photoUrl": null,
+            "socials": null,
+            "id": "édouard_siha"
+        },
+        "sébastien_coulle": {
+            "name": "Sébastien Coulle",
+            "photoUrl": null,
+            "socials": null,
+            "id": "sébastien_coulle"
+        },
+        "magali_milbergue": {
+            "name": "Magali Milbergue",
+            "photoUrl": null,
+            "socials": null,
+            "id": "magali_milbergue"
+        },
+        "alexandre_jeambrun": {
+            "name": "Alexandre Jeambrun",
+            "photoUrl": null,
+            "socials": null,
+            "id": "alexandre_jeambrun"
+        },
+        "harold_favereau": {
+            "name": "Harold Favereau",
+            "photoUrl": null,
+            "socials": null,
+            "id": "harold_favereau"
+        },
+        "sylvain_decout": {
+            "name": "Sylvain Decout",
+            "photoUrl": null,
+            "socials": null,
+            "id": "sylvain_decout"
+        },
+        "talab_ou_ali_halima": {
+            "name": "Talab Ou Ali Halima",
+            "photoUrl": null,
+            "socials": null,
+            "id": "talab_ou_ali_halima"
+        },
+        "daria_hervieux": {
+            "name": "Daria Hervieux",
+            "photoUrl": null,
+            "socials": null,
+            "id": "daria_hervieux"
+        },
+        "luc_sorel-giffo": {
+            "name": "Luc Sorel-Giffo",
+            "photoUrl": null,
+            "socials": null,
+            "id": "luc_sorel-giffo"
+        },
+        "damien_lucas,_ivan_béthus": {
+            "name": "Damien Lucas, Ivan Béthus",
+            "photoUrl": null,
+            "socials": null,
+            "id": "damien_lucas,_ivan_béthus"
+        },
+        "alexis_\"horgix\"_chotard,_caroline_becker": {
+            "name": "Alexis \"Horgix\" Chotard, Caroline Becker",
+            "photoUrl": null,
+            "socials": null,
+            "id": "alexis_\"horgix\"_chotard,_caroline_becker"
+        },
+        "maxime_odye": {
+            "name": "Maxime Odye",
+            "photoUrl": null,
+            "socials": null,
+            "id": "maxime_odye"
+        },
+        "vincent_ogloblinsky": {
+            "name": "Vincent Ogloblinsky",
+            "photoUrl": null,
+            "socials": null,
+            "id": "vincent_ogloblinsky"
+        },
+        "alexis_morelle": {
+            "name": "Alexis Morelle",
+            "photoUrl": null,
+            "socials": null,
+            "id": "alexis_morelle"
+        },
+        "marcy_ericka_charollois": {
+            "name": "Marcy Ericka Charollois",
+            "photoUrl": null,
+            "socials": null,
+            "id": "marcy_ericka_charollois"
+        },
+        "maxime_reynier": {
+            "name": "Maxime Reynier",
+            "photoUrl": null,
+            "socials": null,
+            "id": "maxime_reynier"
+        },
+        "jean-françois_greffier": {
+            "name": "Jean-François Greffier",
+            "photoUrl": null,
+            "socials": null,
+            "id": "jean-françois_greffier"
+        },
+        "david_pilato": {
+            "name": "David Pilato",
+            "photoUrl": null,
+            "socials": null,
+            "id": "david_pilato"
+        },
+        "dorian_lamandé": {
+            "name": "Dorian Lamandé",
+            "photoUrl": null,
+            "socials": null,
+            "id": "dorian_lamandé"
+        },
+        "martin_bahier": {
+            "name": "Martin Bahier",
+            "photoUrl": null,
+            "socials": null,
+            "id": "martin_bahier"
+        },
+        "morgan_blanloeil": {
+            "name": "Morgan Blanloeil",
+            "photoUrl": null,
+            "socials": null,
+            "id": "morgan_blanloeil"
+        },
+        "julien_topçu,_josian_chevalier": {
+            "name": "Julien Topçu, Josian Chevalier",
+            "photoUrl": null,
+            "socials": null,
+            "id": "julien_topçu,_josian_chevalier"
+        },
+        "cédric_champeau": {
+            "name": "Cédric Champeau",
+            "photoUrl": null,
+            "socials": null,
+            "id": "cédric_champeau"
+        },
+        "benjamin_cavy": {
+            "name": "Benjamin Cavy",
+            "photoUrl": null,
+            "socials": null,
+            "id": "benjamin_cavy"
+        },
+        "nailya_bogrova": {
+            "name": "Nailya Bogrova",
+            "photoUrl": null,
+            "socials": null,
+            "id": "nailya_bogrova"
+        },
+        "adrien_wattez,_mickaël_barroux": {
+            "name": "Adrien Wattez, Mickaël Barroux",
+            "photoUrl": null,
+            "socials": null,
+            "id": "adrien_wattez,_mickaël_barroux"
+        },
+        "malo_toanen,_luc_sorel-giffo": {
+            "name": "Malo Toanen, Luc Sorel-Giffo",
+            "photoUrl": null,
+            "socials": null,
+            "id": "malo_toanen,_luc_sorel-giffo"
+        },
+        "jérôme_gauthier": {
+            "name": "Jérôme Gauthier",
+            "photoUrl": null,
+            "socials": null,
+            "id": "jérôme_gauthier"
+        },
+        "victor_landeau": {
+            "name": "Victor Landeau",
+            "photoUrl": null,
+            "socials": null,
+            "id": "victor_landeau"
+        },
+        "cécilia_bossard": {
+            "name": "Cécilia Bossard",
+            "photoUrl": null,
+            "socials": null,
+            "id": "cécilia_bossard"
+        },
+        "jean-luc_tromparent": {
+            "name": "Jean-Luc Tromparent",
+            "photoUrl": null,
+            "socials": null,
+            "id": "jean-luc_tromparent"
+        },
+        "sylvain_métayer": {
+            "name": "Sylvain Métayer",
+            "photoUrl": null,
+            "socials": null,
+            "id": "sylvain_métayer"
+        },
+        "emmanuelle_rouillé": {
+            "name": "Emmanuelle Rouillé",
+            "photoUrl": null,
+            "socials": null,
+            "id": "emmanuelle_rouillé"
+        },
+        "victor_klötzer,_cédric_jézéquel": {
+            "name": "Victor Klötzer, Cédric Jézéquel",
+            "photoUrl": null,
+            "socials": null,
+            "id": "victor_klötzer,_cédric_jézéquel"
+        },
+        "alexis_delhelle": {
+            "name": "Alexis Delhelle",
+            "photoUrl": null,
+            "socials": null,
+            "id": "alexis_delhelle"
+        },
+        "gregory_houllier": {
+            "name": "Gregory Houllier",
+            "photoUrl": null,
+            "socials": null,
+            "id": "gregory_houllier"
+        },
+        "benoît_masson": {
+            "name": "Benoît Masson",
+            "photoUrl": null,
+            "socials": null,
+            "id": "benoît_masson"
+        },
+        "sébastien_brousse": {
+            "name": "Sébastien Brousse",
+            "photoUrl": null,
+            "socials": null,
+            "id": "sébastien_brousse"
+        },
+        "florian_girard,_florent_le_borgne": {
+            "name": "Florian Girard, Florent Le Borgne",
+            "photoUrl": null,
+            "socials": null,
+            "id": "florian_girard,_florent_le_borgne"
+        },
+        "antoine_cailly": {
+            "name": "Antoine Cailly",
+            "photoUrl": null,
+            "socials": null,
+            "id": "antoine_cailly"
+        },
+        "maxime_dupont": {
+            "name": "Maxime Dupont",
+            "photoUrl": null,
+            "socials": null,
+            "id": "maxime_dupont"
+        },
+        "julien_topçu": {
+            "name": "Julien Topçu",
+            "photoUrl": null,
+            "socials": null,
+            "id": "julien_topçu"
+        },
+        "youen_garel,_can_yalin": {
+            "name": "Youen Garel, Can Yalin",
+            "photoUrl": null,
+            "socials": null,
+            "id": "youen_garel,_can_yalin"
+        },
+        "hugues_lepesant": {
+            "name": "Hugues Lepesant",
+            "photoUrl": null,
+            "socials": null,
+            "id": "hugues_lepesant"
+        },
+        "antoine_mayer": {
+            "name": "Antoine Mayer",
+            "photoUrl": null,
+            "socials": null,
+            "id": "antoine_mayer"
+        },
+        "nicolas_de_loof": {
+            "name": "Nicolas De Loof",
+            "photoUrl": null,
+            "socials": null,
+            "id": "nicolas_de_loof"
+        },
+        "audren_burlot": {
+            "name": "Audren Burlot",
+            "photoUrl": null,
+            "socials": null,
+            "id": "audren_burlot"
+        },
+        "guillaume_collic": {
+            "name": "Guillaume Collic",
+            "photoUrl": null,
+            "socials": null,
+            "id": "guillaume_collic"
+        },
+        "emmanuel-lin_toulemonde": {
+            "name": "Emmanuel-Lin Toulemonde",
+            "photoUrl": null,
+            "socials": null,
+            "id": "emmanuel-lin_toulemonde"
+        },
+        "alexandre_brianceau": {
+            "name": "Alexandre Brianceau",
+            "photoUrl": null,
+            "socials": null,
+            "id": "alexandre_brianceau"
+        },
+        "jb_onofré": {
+            "name": "JB Onofré",
+            "photoUrl": null,
+            "socials": null,
+            "id": "jb_onofré"
+        },
+        "mathieu_ancelin": {
+            "name": "Mathieu Ancelin",
+            "photoUrl": null,
+            "socials": null,
+            "id": "mathieu_ancelin"
+        },
+        "alexis_\"horgix\"_chotard": {
+            "name": "Alexis \"Horgix\" Chotard",
+            "photoUrl": null,
+            "socials": null,
+            "id": "alexis_\"horgix\"_chotard"
+        },
+        "laurent_grangeau": {
+            "name": "Laurent Grangeau",
+            "photoUrl": null,
+            "socials": null,
+            "id": "laurent_grangeau"
+        },
+        "angi_guyard": {
+            "name": "Angi Guyard",
+            "photoUrl": null,
+            "socials": null,
+            "id": "angi_guyard"
+        },
+        "anthony_le_goas": {
+            "name": "Anthony Le Goas",
+            "photoUrl": null,
+            "socials": null,
+            "id": "anthony_le_goas"
+        },
+        "guillaume_yan": {
+            "name": "Guillaume Yan",
+            "photoUrl": null,
+            "socials": null,
+            "id": "guillaume_yan"
+        },
+        "pascal_le_merrer": {
+            "name": "Pascal Le Merrer",
+            "photoUrl": null,
+            "socials": null,
+            "id": "pascal_le_merrer"
+        },
+        "paul_chaignon": {
+            "name": "Paul Chaignon",
+            "photoUrl": null,
+            "socials": null,
+            "id": "paul_chaignon"
+        },
+        "ludovic_boutros,_adam_souquieres": {
+            "name": "Ludovic Boutros, Adam Souquieres",
+            "photoUrl": null,
+            "socials": null,
+            "id": "ludovic_boutros,_adam_souquieres"
+        },
+        "hadrien_mens-pellen": {
+            "name": "Hadrien Mens-Pellen",
+            "photoUrl": null,
+            "socials": null,
+            "id": "hadrien_mens-pellen"
+        },
+        "charline_humeau,_céline_merand": {
+            "name": "Charline Humeau, Céline Merand",
+            "photoUrl": null,
+            "socials": null,
+            "id": "charline_humeau,_céline_merand"
+        },
+        "nicolas_payneau,_david_mazin": {
+            "name": "Nicolas Payneau, David Mazin",
+            "photoUrl": null,
+            "socials": null,
+            "id": "nicolas_payneau,_david_mazin"
+        },
+        "reynald_rivière,_charles_vivoix": {
+            "name": "Reynald Rivière, Charles Vivoix",
+            "photoUrl": null,
+            "socials": null,
+            "id": "reynald_rivière,_charles_vivoix"
+        },
+        "stéphane_spassevitch": {
+            "name": "Stéphane Spassevitch",
+            "photoUrl": null,
+            "socials": null,
+            "id": "stéphane_spassevitch"
+        },
+        "david_de_carvalho": {
+            "name": "David De Carvalho",
+            "photoUrl": null,
+            "socials": null,
+            "id": "david_de_carvalho"
+        },
+        "alexandre_thomazo": {
+            "name": "Alexandre Thomazo",
+            "photoUrl": null,
+            "socials": null,
+            "id": "alexandre_thomazo"
+        },
+        "thomas_martin,_mickaël_barroux": {
+            "name": "Thomas Martin, Mickaël Barroux",
+            "photoUrl": null,
+            "socials": null,
+            "id": "thomas_martin,_mickaël_barroux"
+        },
+        "damien_hackett": {
+            "name": "Damien Hackett",
+            "photoUrl": null,
+            "socials": null,
+            "id": "damien_hackett"
+        },
+        "sébastien_chédor": {
+            "name": "Sébastien Chédor",
+            "photoUrl": null,
+            "socials": null,
+            "id": "sébastien_chédor"
+        },
+        "benoit_averty": {
+            "name": "Benoit Averty",
+            "photoUrl": null,
+            "socials": null,
+            "id": "benoit_averty"
+        },
+        "olivier_bierlaire": {
+            "name": "Olivier Bierlaire",
+            "photoUrl": null,
+            "socials": null,
+            "id": "olivier_bierlaire"
+        },
+        "jean-philippe_baconnais,_jules_agostini": {
+            "name": "Jean-Philippe Baconnais, Jules Agostini",
+            "photoUrl": null,
+            "socials": null,
+            "id": "jean-philippe_baconnais,_jules_agostini"
+        },
+        "caroline_mouden": {
+            "name": "Caroline Mouden",
+            "photoUrl": null,
+            "socials": null,
+            "id": "caroline_mouden"
+        },
+        "hugo_metivier": {
+            "name": "Hugo Metivier",
+            "photoUrl": null,
+            "socials": null,
+            "id": "hugo_metivier"
+        },
+        "maxime_odye,_alexandre_baron": {
+            "name": "Maxime Odye, Alexandre Baron",
+            "photoUrl": null,
+            "socials": null,
+            "id": "maxime_odye,_alexandre_baron"
+        },
+        "théo_gianella": {
+            "name": "Théo Gianella",
+            "photoUrl": null,
+            "socials": null,
+            "id": "théo_gianella"
+        },
+        "nicolas_ledez": {
+            "name": "Nicolas Ledez",
+            "photoUrl": null,
+            "socials": null,
+            "id": "nicolas_ledez"
+        },
+        "gaëtan_eleouet": {
+            "name": "Gaëtan Eleouet",
+            "photoUrl": null,
+            "socials": null,
+            "id": "gaëtan_eleouet"
+        },
+        "gwendal_leclerc": {
+            "name": "Gwendal Leclerc",
+            "photoUrl": null,
+            "socials": null,
+            "id": "gwendal_leclerc"
+        },
+        "françois_dubrez": {
+            "name": "François Dubrez",
+            "photoUrl": null,
+            "socials": null,
+            "id": "françois_dubrez"
+        }
+    }
+}
