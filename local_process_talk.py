@@ -1,4 +1,5 @@
 import json
+import unidecode
 
 # Input and output file paths
 input_file_path = 'talks.json'
@@ -16,7 +17,9 @@ output_data = {
 
 # Function to generate a unique speaker ID
 def generate_speaker_id(name):
-    return name.lower().replace(" ", "_")
+    # Use unidecode to remove special characters
+    normalized_name = unidecode.unidecode(name)
+    return normalized_name.lower().replace(" ", "_")
 
 # Process each session in the input data
 for session in input_data:
