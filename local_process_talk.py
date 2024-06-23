@@ -15,19 +15,19 @@ output_data = {
     "speakers": {}
 }
 
-# Function to generate a unique speaker ID
-def generate_speaker_id(name):
-    # Use unidecode to remove special characters
+# Function to generate a unique speaker ID for each session
+def generate_speaker_id(name, session_id):
+    # Normalize the name and append session ID to ensure uniqueness
     normalized_name = unidecode.unidecode(name)
-    return normalized_name.lower().replace(" ", "_")
+    return f"{normalized_name.lower().replace(' ', '_')}_{session_id}"
 
 # Process each session in the input data
 for session in input_data:
     session_id = session["id"]
     speaker_name = session["speakers"]
 
-    # Generate speaker ID
-    speaker_id = generate_speaker_id(speaker_name)
+    # Generate a unique speaker ID for each session
+    speaker_id = generate_speaker_id(speaker_name, session_id)
 
     # Add session details to output data
     output_data["sessions"][session_id] = {
@@ -40,17 +40,27 @@ for session in input_data:
         "trackTitle": session["venue"]
     }
 
-    # Add speaker details to output data, even all set to nullity 
-    if speaker_id not in output_data["speakers"]:
-        output_data["speakers"][speaker_id] = {
-            "name": speaker_name,
-            "photoUrl": None,
-            "socials": None,
-            "id": speaker_id
-        }
+    # Add speaker details to output data
+    output_data["speakers"][speaker_id] = {
+        "name": speaker_name,
+        "photoUrl": None,
+        "socials": None,
+        "id": speaker_id
+    }
 
 # Write the JSON output to a file formatted for OpenFeedback
 with open(output_file_path, 'w', encoding='utf-8') as outfile:
     json.dump(output_data, outfile, indent=4, ensure_ascii=False)
 
+# Print the number of sessions and speakers
+num_sessions = len(output_data["sessions"])
+num_speakers = len(output_data["speakers"])
+
 print(f"Output written to {output_file_path}")
+print(f"Number of sessions: {num_sessions}")
+print(f"Number of speakers: {num_speakers}")
+
+# Explanation:
+# For OpenFeedback, we need to have a one-to-one mapping between sessions and speakers.
+# This is why each session gets a unique speaker entry, even if the speaker is the same.
+# This ensures that every session has a corresponding speaker entry, meeting OpenFeedback's requirements.
