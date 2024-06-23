@@ -43,8 +43,6 @@ for session in input_data:
     # Add speaker details to output data
     output_data["speakers"][speaker_id] = {
         "name": speaker_name,
-        "photoUrl": None,
-        "socials": None,
         "id": speaker_id
     }
 
@@ -64,3 +62,5 @@ print(f"Number of speakers: {num_speakers}")
 # For OpenFeedback, we need to have a one-to-one mapping between sessions and speakers.
 # This is why each session gets a unique speaker entry, even if the speaker is the same.
 # This ensures that every session has a corresponding speaker entry, meeting OpenFeedback's requirements.
+# The 'photoUrl' and 'socials' fields are removed from the speaker details to avoid any potential issues 
+# during the data import process into OpenFeedback.
