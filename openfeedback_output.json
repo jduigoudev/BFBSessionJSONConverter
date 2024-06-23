@@ -1278,394 +1278,1080 @@
     "speakers": {
         "benoit_masson,_sebastien_chedor_666820": {
             "name": "Benoît Masson, Sébastien Chédor",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "benoit_masson,_sebastien_chedor_666820"
         },
         "jerome_marchand,_adrien_wattez_670503": {
             "name": "Jérôme Marchand, Adrien Wattez",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "jerome_marchand,_adrien_wattez_670503"
         },
         "jerome_marchand_666173": {
             "name": "Jérôme Marchand",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "jerome_marchand_666173"
         },
         "florian_allainmat,_imryck_n/a_659464": {
             "name": "Florian Allainmat, Imryck N/A",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "florian_allainmat,_imryck_n/a_659464"
         },
         "mathieu_ancelin,_sebastien_prunier_664305": {
             "name": "Mathieu Ancelin, Sébastien Prunier",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "mathieu_ancelin,_sebastien_prunier_664305"
         },
         "alan_duchene_661590": {
             "name": "Alan Duchene",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "alan_duchene_661590"
         },
         "lucas_audart,_mickael_alves_653362": {
             "name": "Lucas Audart, Mickael Alves",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "lucas_audart,_mickael_alves_653362"
         },
         "sandra_pietrowska,_franck_cussac_656861": {
             "name": "Sandra Pietrowska, Franck Cussac",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "sandra_pietrowska,_franck_cussac_656861"
         },
         "francois-xavier_lair,_henri_gauffriau_657943": {
             "name": "François-Xavier Lair, Henri Gauffriau",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "francois-xavier_lair,_henri_gauffriau_657943"
         },
         "mathieu_pousse_668968": {
             "name": "Mathieu Pousse",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "mathieu_pousse_668968"
         },
         "johanna_duigou_670842": {
             "name": "Johanna Duigou",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "johanna_duigou_670842"
         },
         "antoine_g_666515": {
             "name": "Antoine G",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "antoine_g_666515"
         },
         "charline_humeau,_nicolas_giraud_656166": {
             "name": "Charline Humeau, Nicolas Giraud",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "charline_humeau,_nicolas_giraud_656166"
         },
         "edouard_siha_658467": {
             "name": "Édouard Siha",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "edouard_siha_658467"
         },
         "sebastien_coulle_669619": {
             "name": "Sébastien Coulle",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "sebastien_coulle_669619"
         },
         "magali_milbergue_658620": {
             "name": "Magali Milbergue",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "magali_milbergue_658620"
         },
         "alexandre_jeambrun_658066": {
             "name": "Alexandre Jeambrun",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "alexandre_jeambrun_658066"
         },
         "harold_favereau_659657": {
             "name": "Harold Favereau",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "harold_favereau_659657"
         },
         "sylvain_decout_663614": {
             "name": "Sylvain Decout",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "sylvain_decout_663614"
         },
         "talab_ou_ali_halima_670915": {
             "name": "Talab Ou Ali Halima",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "talab_ou_ali_halima_670915"
         },
         "daria_hervieux_666590": {
             "name": "Daria Hervieux",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "daria_hervieux_666590"
         },
         "luc_sorel-giffo_670894": {
             "name": "Luc Sorel-Giffo",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "luc_sorel-giffo_670894"
         },
         "damien_lucas,_ivan_bethus_653014": {
             "name": "Damien Lucas, Ivan Béthus",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "damien_lucas,_ivan_bethus_653014"
         },
         "alexis_\"horgix\"_chotard,_caroline_becker_669467": {
             "name": "Alexis \"Horgix\" Chotard, Caroline Becker",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "alexis_\"horgix\"_chotard,_caroline_becker_669467"
         },
         "maxime_odye_663731": {
             "name": "Maxime Odye",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "maxime_odye_663731"
         },
         "vincent_ogloblinsky_660722": {
             "name": "Vincent Ogloblinsky",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "vincent_ogloblinsky_660722"
         },
         "edouard_siha_658496": {
             "name": "Édouard Siha",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "edouard_siha_658496"
         },
         "alexis_morelle_654315": {
             "name": "Alexis Morelle",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "alexis_morelle_654315"
         },
         "marcy_ericka_charollois_663080": {
             "name": "Marcy Ericka Charollois",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "marcy_ericka_charollois_663080"
         },
         "maxime_reynier_665171": {
             "name": "Maxime Reynier",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "maxime_reynier_665171"
         },
         "jean-francois_greffier_656552": {
             "name": "Jean-François Greffier",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "jean-francois_greffier_656552"
         },
         "david_pilato_652330": {
             "name": "David Pilato",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "david_pilato_652330"
         },
         "dorian_lamande_654458": {
             "name": "Dorian Lamandé",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "dorian_lamande_654458"
         },
         "martin_bahier_671111": {
             "name": "Martin Bahier",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "martin_bahier_671111"
         },
         "morgan_blanloeil_671087": {
             "name": "Morgan Blanloeil",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "morgan_blanloeil_671087"
         },
         "julien_topcu,_josian_chevalier_653610": {
             "name": "Julien Topçu, Josian Chevalier",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "julien_topcu,_josian_chevalier_653610"
         },
         "cedric_champeau_653779": {
             "name": "Cédric Champeau",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "cedric_champeau_653779"
         },
         "benjamin_cavy_663769": {
             "name": "Benjamin Cavy",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "benjamin_cavy_663769"
         },
         "nailya_bogrova_670888": {
             "name": "Nailya Bogrova",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "nailya_bogrova_670888"
         },
         "adrien_wattez,_mickael_barroux_666457": {
             "name": "Adrien Wattez, Mickaël Barroux",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "adrien_wattez,_mickael_barroux_666457"
         },
         "malo_toanen,_luc_sorel-giffo_670736": {
             "name": "Malo Toanen, Luc Sorel-Giffo",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "malo_toanen,_luc_sorel-giffo_670736"
         },
         "benjamin_cavy_659416": {
             "name": "Benjamin Cavy",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "benjamin_cavy_659416"
         },
         "jerome_gauthier_657061": {
             "name": "Jérôme Gauthier",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "jerome_gauthier_657061"
         },
         "victor_landeau_670850": {
             "name": "Victor Landeau",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "victor_landeau_670850"
         },
         "cecilia_bossard_662469": {
             "name": "Cécilia Bossard",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "cecilia_bossard_662469"
         },
         "jean-luc_tromparent_660870": {
             "name": "Jean-Luc Tromparent",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "jean-luc_tromparent_660870"
         },
         "sylvain_metayer_652393": {
             "name": "Sylvain Métayer",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "sylvain_metayer_652393"
         },
         "emmanuelle_rouille_666835": {
             "name": "Emmanuelle Rouillé",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "emmanuelle_rouille_666835"
         },
         "victor_klotzer,_cedric_jezequel_669386": {
             "name": "Victor Klötzer, Cédric Jézéquel",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "victor_klotzer,_cedric_jezequel_669386"
         },
         "alexis_delhelle_671001": {
             "name": "Alexis Delhelle",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "alexis_delhelle_671001"
         },
         "gregory_houllier_666799": {
             "name": "Gregory Houllier",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "gregory_houllier_666799"
         },
         "sylvain_metayer_652394": {
             "name": "Sylvain Métayer",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "sylvain_metayer_652394"
         },
         "benoit_masson_666318": {
             "name": "Benoît Masson",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "benoit_masson_666318"
         },
         "sebastien_brousse_671149": {
             "name": "Sébastien Brousse",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "sebastien_brousse_671149"
         },
         "florian_girard,_florent_le_borgne_668071": {
             "name": "Florian Girard, Florent Le Borgne",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "florian_girard,_florent_le_borgne_668071"
         },
         "antoine_cailly_669841": {
             "name": "Antoine Cailly",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "antoine_cailly_669841"
         },
         "maxime_dupont_671126": {
             "name": "Maxime Dupont",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "maxime_dupont_671126"
         },
         "julien_topcu_662102": {
             "name": "Julien Topçu",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "julien_topcu_662102"
         },
         "youen_garel,_can_yalin_665161": {
             "name": "Youen Garel, Can Yalin",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "youen_garel,_can_yalin_665161"
         },
         "hugues_lepesant_654007": {
             "name": "Hugues Lepesant",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "hugues_lepesant_654007"
         },
         "antoine_mayer_670834": {
             "name": "Antoine Mayer",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "antoine_mayer_670834"
         },
         "nicolas_de_loof_662583": {
             "name": "Nicolas De Loof",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "nicolas_de_loof_662583"
         },
         "audren_burlot_656887": {
             "name": "Audren Burlot",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "audren_burlot_656887"
         },
         "guillaume_collic_664942": {
             "name": "Guillaume Collic",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "guillaume_collic_664942"
         },
         "emmanuel-lin_toulemonde_666197": {
             "name": "Emmanuel-Lin Toulemonde",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "emmanuel-lin_toulemonde_666197"
         },
         "alexandre_brianceau_668905": {
             "name": "Alexandre Brianceau",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "alexandre_brianceau_668905"
         },
         "jb_onofre_663259": {
             "name": "JB Onofré",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "jb_onofre_663259"
         },
         "mathieu_ancelin_658493": {
             "name": "Mathieu Ancelin",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "mathieu_ancelin_658493"
         },
         "alexis_\"horgix\"_chotard_669460": {
             "name": "Alexis \"Horgix\" Chotard",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "alexis_\"horgix\"_chotard_669460"
         },
         "laurent_grangeau_654521": {
             "name": "Laurent Grangeau",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "laurent_grangeau_654521"
         },
         "angi_guyard_662959": {
             "name": "Angi Guyard",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "angi_guyard_662959"
         },
         "anthony_le_goas_666547": {
             "name": "Anthony Le Goas",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "anthony_le_goas_666547"
         },
         "guillaume_yan_662478": {
             "name": "Guillaume Yan",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "guillaume_yan_662478"
         },
         "pascal_le_merrer_669651": {
             "name": "Pascal Le Merrer",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "pascal_le_merrer_669651"
         },
         "paul_chaignon_664979": {
             "name": "Paul Chaignon",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "paul_chaignon_664979"
         },
         "ludovic_boutros,_adam_souquieres_666967": {
             "name": "Ludovic Boutros, Adam Souquieres",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "ludovic_boutros,_adam_souquieres_666967"
         },
         "hadrien_mens-pellen_668255": {
             "name": "Hadrien Mens-Pellen",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "hadrien_mens-pellen_668255"
         },
         "charline_humeau,_celine_merand_663247": {
             "name": "Charline Humeau, Céline Merand",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "charline_humeau,_celine_merand_663247"
         },
         "nicolas_payneau,_david_mazin_669638": {
             "name": "Nicolas Payneau, David Mazin",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "nicolas_payneau,_david_mazin_669638"
         },
         "reynald_riviere,_charles_vivoix_658654": {
             "name": "Reynald Rivière, Charles Vivoix",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "reynald_riviere,_charles_vivoix_658654"
         },
         "stephane_spassevitch_671066": {
             "name": "Stéphane Spassevitch",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "stephane_spassevitch_671066"
         },
         "david_de_carvalho_670097": {
             "name": "David De Carvalho",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "david_de_carvalho_670097"
         },
         "alexandre_thomazo_664924": {
             "name": "Alexandre Thomazo",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "alexandre_thomazo_664924"
         },
         "thomas_martin,_mickael_barroux_662787": {
             "name": "Thomas Martin, Mickaël Barroux",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "thomas_martin,_mickael_barroux_662787"
         },
         "damien_hackett_665064": {
             "name": "Damien Hackett",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "damien_hackett_665064"
         },
         "sebastien_chedor_666600": {
             "name": "Sébastien Chédor",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "sebastien_chedor_666600"
         },
         "benoit_averty_663729": {
             "name": "Benoit Averty",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "benoit_averty_663729"
         },
         "olivier_bierlaire_658043": {
             "name": "Olivier Bierlaire",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "olivier_bierlaire_658043"
         },
         "jean-philippe_baconnais,_jules_agostini_667155": {
             "name": "Jean-Philippe Baconnais, Jules Agostini",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "jean-philippe_baconnais,_jules_agostini_667155"
         },
         "caroline_mouden_664116": {
             "name": "Caroline Mouden",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "caroline_mouden_664116"
         },
         "hugo_metivier_671274": {
             "name": "Hugo Metivier",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "hugo_metivier_671274"
         },
         "maxime_odye,_alexandre_baron_663726": {
             "name": "Maxime Odye, Alexandre Baron",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "maxime_odye,_alexandre_baron_663726"
         },
         "theo_gianella_667292": {
             "name": "Théo Gianella",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "theo_gianella_667292"
         },
         "nicolas_ledez_664925": {
             "name": "Nicolas Ledez",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "nicolas_ledez_664925"
         },
         "david_pilato_662651": {
             "name": "David Pilato",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "david_pilato_662651"
         },
         "gaetan_eleouet_671057": {
             "name": "Gaëtan Eleouet",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "gaetan_eleouet_671057"
         },
         "gwendal_leclerc_671246": {
             "name": "Gwendal Leclerc",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "gwendal_leclerc_671246"
         },
         "francois_dubrez_659387": {
             "name": "François Dubrez",
+            "photoUrl": "https://www.breizhcamp.org/img/logo.png",
+            "socials": [
+                {
+                    "name": "twitter",
+                    "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+                }
+            ],
             "id": "francois_dubrez_659387"
         }
     }

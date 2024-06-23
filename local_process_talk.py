@@ -15,6 +15,15 @@ output_data = {
     "speakers": {}
 }
 
+# Default photo URL and social links for speakers
+default_photo_url = "https://www.breizhcamp.org/img/logo.png"
+default_socials = [
+    {
+        "name": "twitter",
+        "link": "https://x.com/i/flow/login?redirect_after_login=%2Fbreizhcamp"
+    }
+]
+
 # Function to generate a unique speaker ID for each session
 def generate_speaker_id(name, session_id):
     # Normalize the name and append session ID to ensure uniqueness
@@ -43,6 +52,8 @@ for session in input_data:
     # Add speaker details to output data
     output_data["speakers"][speaker_id] = {
         "name": speaker_name,
+        "photoUrl": default_photo_url,
+        "socials": default_socials,
         "id": speaker_id
     }
 
@@ -62,5 +73,5 @@ print(f"Number of speakers: {num_speakers}")
 # For OpenFeedback, we need to have a one-to-one mapping between sessions and speakers.
 # This is why each session gets a unique speaker entry, even if the speaker is the same.
 # This ensures that every session has a corresponding speaker entry, meeting OpenFeedback's requirements.
-# The 'photoUrl' and 'socials' fields are removed from the speaker details to avoid any potential issues 
+# Each speaker entry now includes a default 'photoUrl' and 'socials' to avoid any potential issues 
 # during the data import process into OpenFeedback.
